@@ -1,0 +1,22 @@
+{
+  "name": "generator",
+  "version": "1.0.0",
+  "description": "User DHIS2 Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "user",
+    "dhis2",
+    "dpe",
+    "ops",
+    "msp"
+  ],
+  "author": "dpperalta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "xlsx": "^0.18.2"
+  }
+}
